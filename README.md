@@ -1,3 +1,3 @@
-# One-For-All-Link
+# One For All Link
 
 Work in progress
