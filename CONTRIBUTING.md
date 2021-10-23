@@ -1,3 +1,3 @@
 # Contributing Guidelines
 
-Work In progress
+While contributing do add your name in contributors section of readme.md section.
