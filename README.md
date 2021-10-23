@@ -15,7 +15,7 @@ Project containg different templates for making a page similar to LinkTree which
 
 - [@iatharva](https://www.github.com/iatharva)
 
-##Contributors
+## Contributors
 
 - 
 
